@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457045356044",
+    "firebase_url": "https://gofoodmancust-default-rtdb.firebaseio.com",
+    "project_id": "gofoodmancust",
+    "storage_bucket": "gofoodmancust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457045356044:android:992e3ae2c270094c318829",
+        "android_client_info": {
+          "package_name": "com.davidcobbina.potbelly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457045356044-nsq50cea5v12731q7h3gapnlcaqo5qvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy2dKMomo7OfRMi57FQb9nIIZhFhpQq_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457045356044-nsq50cea5v12731q7h3gapnlcaqo5qvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
